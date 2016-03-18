@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: white;
+}
+
+h1 {
+    color: #bdcc0a;
+    text-align: left;
+    font-family: "new times roman";
+    font-size: 50px;
+}
+    
+h2 {
+    
+    color: #292a1a;
+    text-align: left;
+    font-family: "new times roman";
+    font-size: 24px;
+    
+    }
+
+ h3 {
+    color:#292a1a;
+    font-family:"Open Sans";
+    text-align: right;
+    font-size: 18px; 
+     
+    }    
+}
+
+</head>
+<body>
+p {
+    font-family: "Roboto Condensed";
+    font-size: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b7e6bc;
+}
+
+li {
+    float: right
+    
+}
+
+li a {
+    display: inline-block;
+    color: #1d1111;
+    text-align:inherit;
+    padding:8px;
+    text-decoration: #767630;
+    font-size: 24px;
+    
+}li a:hovernot(.active) {
+    background-color: #111;
+    
+    
+ .container {
+    position: relative
+                
+    .topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;             
+     
+}          
+}
+}
