@@ -1,76 +1,45 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-color: white;
+h1{
+	color: yellow;
+	padding-top: 20px;
+	padding-left: 15px;
+	font-size: 100px;
+	margin-top: 30px;
+  font-family:Courier New;
+}
+#cont1 {
+
+	height: 150px;
+	background-color: black;
+}
+#border{
+	border-top: solid;
+	border-bottom: solid;
+}
+#prompt{
+	margin-left: 40px;
 }
 
-h1 {
-    color: #bdcc0a;
-    text-align: left;
-    font-family: "new times roman";
-    font-size: 50px;
-}
-    
-h2 {
-    
-    color: #292a1a;
-    text-align: left;
-    font-family: "new times roman";
-    font-size: 24px;
-    
-    }
+#cont2 {
 
- h3 {
-    color:#292a1a;
-    font-family:"Open Sans";
-    text-align: right;
-    font-size: 18px; 
-     
-    }    
+	width: 100%;
+	height: 567px;
+	background-image: url(assets/images/big_img.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
-</head>
-<body>
-p {
-    font-family: "Roboto Condensed";
-    font-size: 15px;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #b7e6bc;
+#cont3 {
+	width:100%;
+	height:150px;
+	background-size: cover;
+	background-color: white;
+
 }
 
-li {
-    float: right
-    
-}
+#cont4 {
+	width:100%;
+	height:150px;
+	background-size: cover;
+	background-color: white;
 
-li a {
-    display: inline-block;
-    color: #1d1111;
-    text-align:inherit;
-    padding:8px;
-    text-decoration: #767630;
-    font-size: 24px;
-    
-}li a:hovernot(.active) {
-    background-color: #111;
-    
-    
- .container {
-    position: relative
-                
-    .topleft {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: 18px;             
-     
-}          
-}
 }
